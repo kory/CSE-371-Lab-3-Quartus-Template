@@ -1,0 +1,11 @@
+*.bak
+.qsys_edit/*
+db/*
+incremental_db/*
+output_files/*
+simulation/*
+work/*
+modelsim/*
+!*/*.bat
+!*/*.do
+!output_files/DE1_SoC.sof
