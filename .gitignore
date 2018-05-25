@@ -9,4 +9,3 @@ modelsim/*
 !*/*.bat
 !*/*.do
 !output_files/DE1_SoC.sof
-!output_files/DE1_SoC_Example.sof
